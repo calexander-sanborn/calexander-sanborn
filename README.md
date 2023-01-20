@@ -1,7 +1,9 @@
 👋 Hola, I am Colin.
 
 Software Engineer by trade.
+
 Reverse Engineer by trial.
+
 Testing Engineer by error. 
 
 <!---
